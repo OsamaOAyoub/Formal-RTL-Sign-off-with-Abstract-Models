@@ -1,0 +1,103 @@
+{
+    "version": 17,
+    "module": {
+        "name": "VerificationWrapper",
+        "reset_signal": {
+            "signal": "reset",
+            "is_active_low": false
+        },
+        "clock_signal": {
+            "signal": "clk",
+            "is_falling_edge": false
+        },
+        "next_shift_amount": 0,
+        "rtl_module_name": "",
+        "instance_name": "",
+        "default_assertion_duration": 1,
+        "default_disable_iff": "",
+        "reset": "",
+        "additional_includes": "",
+        "sync_macros": [],
+        "notify_macros": [],
+        "input_datapath_macros": [
+            {
+                "name": "datain_sig",
+                "datatype": "bit unsigned [7:0]",
+                "refinement": "dataIn",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "instrIn_sig",
+                "datatype": "bit unsigned [15:0]",
+                "refinement": "instrIn",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            }
+        ],
+        "output_datapath_macros": [
+            {
+                "name": "dataaddr_sig",
+                "datatype": "bit unsigned [7:0]",
+                "refinement": "dataAddr",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "dataout_sig",
+                "datatype": "bit unsigned [7:0]",
+                "refinement": "dataOut",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "instraddr_sig",
+                "datatype": "bit unsigned [15:0]",
+                "refinement": "instrAddr",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "wen_sig",
+                "datatype": "bit",
+                "refinement": "writeEnable",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "DUT type",
+                "datatype": "seq: sequential, comb: combinational",
+                "refinement": "seq"
+            },
+            {
+                "name": "Lower limit of the delay of DUT in clock cycles",
+                "refinement": "0"
+            },
+            {
+                "name": "OLS ready signal | Only if a full hsk is used",
+                "datatype": "Specify the ready hsk signal",
+                "refinement": ""
+            },
+            {
+                "name": "OLS valid signal | Only if a full hsk is used",
+                "datatype": "Specify the valid hsk signal",
+                "refinement": ""
+            },
+            {
+                "name": "Upper limit of the delay of DUT in clock cycles",
+                "refinement": "1"
+            }
+        ],
+        "state_macros": [],
+        "register_macros": [],
+        "assertions": [],
+        "waits": [],
+        "additional_imports": ""
+    }
+}

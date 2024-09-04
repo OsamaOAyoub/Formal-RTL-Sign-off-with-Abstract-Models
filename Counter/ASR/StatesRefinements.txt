@@ -1,0 +1,26 @@
+********************
+* state Refinement *
+********************
+
+(
+(
+!RefinementVector[1] && !RefinementVector[2] && !RefinementVector[3] && !RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] 
+)
+||
+(
+RefinementVector[8] 
+)
+||
+(
+!RefinementVector[8] 
+)
+||
+(
+RefinementVector[8] 
+)
+&&
+(
+!(RefinementVector[1] && RefinementVector[9])
+)
+)
+

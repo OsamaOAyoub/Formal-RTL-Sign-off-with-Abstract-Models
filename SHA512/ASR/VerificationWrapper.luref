@@ -1,0 +1,212 @@
+{
+    "version": 17,
+    "module": {
+        "name": "VerificationWrapper",
+        "reset_signal": {
+            "signal": "reset_n || zeroize",
+            "is_active_low": true
+        },
+        "clock_signal": {
+            "signal": "clk",
+            "is_falling_edge": false
+        },
+        "next_shift_amount": 0,
+        "rtl_module_name": "",
+        "instance_name": "",
+        "default_assertion_duration": 1,
+        "default_disable_iff": "",
+        "reset": {
+            "documentation_comment": ""
+        },
+        "additional_includes": "fv_constraints.sv",
+        "sync_macros": [],
+        "notify_macros": [],
+        "input_datapath_macros": [
+            {
+                "name": "SHA_Input_sig.in",
+                "datatype": "bit unsigned [1023:0]",
+                "refinement": "block_msg",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_sig.init",
+                "datatype": "bit",
+                "refinement": "init_cmd",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_sig.next",
+                "datatype": "bit",
+                "refinement": "next_cmd",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_sig.SHA_Mode",
+                "datatype": "bit signed [31:0]",
+                "refinement": "((mode==0)?224:(mode==1)?256:(mode==2)?384:512)",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_sig.zeroize",
+                "datatype": "bit",
+                "refinement": "zeroize",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_sync",
+                "datatype": "bit",
+                "refinement": "init_cmd || next_cmd",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            }
+        ],
+        "output_datapath_macros": [
+            {
+                "name": "out_notify",
+                "datatype": "bit",
+                "refinement": "digest_valid",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "out_sig",
+                "datatype": "bit unsigned [511:0]",
+                "refinement": "digest",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "SHA_Input_notify",
+                "datatype": "bit",
+                "refinement": "ready",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "DUT type",
+                "datatype": "seq: sequential, comb: combinational",
+                "refinement": "seq"
+            },
+            {
+                "name": "Largest bitwidth of the outputs",
+                "datatype": "Specify the largest bitwidth of the output as a range, i.e. [127:0]",
+                "refinement": "[1023:0]"
+            },
+            {
+                "name": "Lower limit of the delay of DUT in clock cycles",
+                "refinement": "0"
+            },
+            {
+                "name": "OLS ready signal | Only if a full hsk is used",
+                "datatype": "Specify the ready hsk signal",
+                "refinement": "SHA_Input_notify"
+            },
+            {
+                "name": "OLS valid signal | Only if a full hsk is used",
+                "datatype": "Specify the valid hsk signal",
+                "refinement": "out_notify"
+            },
+            {
+                "name": "Upper limit of the delay of DUT in clock cycles",
+                "refinement": "1"
+            }
+        ],
+        "state_macros": [],
+        "register_macros": [],
+        "assertions": [
+            {
+                "name": "DONE_to_IDLE_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_to_SHA_Rounds_1_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_to_SHA_Rounds_2_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_to_SHA_Rounds_3_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_to_SHA_Rounds_4_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_to_SHA_Rounds_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "IDLE_wait_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "reset_a",
+                "disable_iff": "",
+                "duration": 0,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "SHA_Rounds_to_DONE_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "SHA_Rounds_to_SHA_Rounds_1_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            },
+            {
+                "name": "SHA_Rounds_to_SHA_Rounds_a",
+                "disable_iff": "",
+                "duration": 1,
+                "documentation_comment": "",
+                "unused": false
+            }
+        ],
+        "waits": [],
+        "additional_imports": ""
+    }
+}

@@ -1,0 +1,294 @@
+*******************
+* IDLE Refinement *
+*******************
+
+(
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[10] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[9] && !RefinementVector[11]) && !(!RefinementVector[9] && RefinementVector[11]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+)
+&&
+!(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[10] && RefinementVector[11]) && !(RefinementVector[17] && RefinementVector[18]) && !(!RefinementVector[18] && RefinementVector[31])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[8] && RefinementVector[9]) && !(RefinementVector[9] && !RefinementVector[12]) && !(RefinementVector[15] && RefinementVector[16])
+)
+)
+&&
+!(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[19] && !RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && RefinementVector[23] && RefinementVector[24] && !RefinementVector[25] && RefinementVector[26] && RefinementVector[27] && !RefinementVector[28] && RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && RefinementVector[32] && !RefinementVector[33] && RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+)
+
+************************
+* SHARounds Refinement *
+************************
+
+(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[10] && RefinementVector[11]) && !(RefinementVector[17] && RefinementVector[18]) && !(!RefinementVector[18] && RefinementVector[31])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[8] && RefinementVector[9]) && !(RefinementVector[9] && !RefinementVector[12]) && !(RefinementVector[15] && RefinementVector[16])
+)
+)
+&&
+!(
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[10] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[9] && !RefinementVector[11]) && !(!RefinementVector[9] && RefinementVector[11]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+)
+&&
+!(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[19] && !RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && RefinementVector[23] && RefinementVector[24] && !RefinementVector[25] && RefinementVector[26] && RefinementVector[27] && !RefinementVector[28] && RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && RefinementVector[32] && !RefinementVector[33] && RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+)
+
+*******************
+* DONE Refinement *
+*******************
+
+(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[19] && !RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && RefinementVector[23] && RefinementVector[24] && !RefinementVector[25] && RefinementVector[26] && RefinementVector[27] && !RefinementVector[28] && RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && RefinementVector[32] && !RefinementVector[33] && RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+)
+&&
+!(
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && RefinementVector[9] && !RefinementVector[10] && RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[10] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[9] && !RefinementVector[11]) && !(!RefinementVector[9] && RefinementVector[11]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+||
+(
+RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && !RefinementVector[20] && RefinementVector[22] && !RefinementVector[23] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[31] && !RefinementVector[34] && !RefinementVector[36] && !RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[19] && !RefinementVector[21]) && !(!RefinementVector[19] && RefinementVector[21]) && !(RefinementVector[21] && !RefinementVector[24]) && !(!RefinementVector[21] && RefinementVector[24]) && !(RefinementVector[24] && !RefinementVector[27]) && !(!RefinementVector[24] && RefinementVector[27]) && !(RefinementVector[27] && !RefinementVector[30]) && !(!RefinementVector[27] && RefinementVector[30]) && !(RefinementVector[30] && !RefinementVector[32]) && !(!RefinementVector[30] && RefinementVector[32]) && !(!RefinementVector[32] && RefinementVector[33]) && !(RefinementVector[33] && !RefinementVector[35]) && !(!RefinementVector[35] && RefinementVector[37]) && !(RefinementVector[37] && !RefinementVector[38])
+)
+)
+&&
+!(
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[5] && !RefinementVector[6] && !RefinementVector[7] && !RefinementVector[8] && !RefinementVector[9] && !RefinementVector[10] && !RefinementVector[11] && RefinementVector[12] && !RefinementVector[13] && !RefinementVector[14] && !RefinementVector[15] && !RefinementVector[16] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1])
+)
+||
+(
+!RefinementVector[4] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[10] && RefinementVector[11]) && !(RefinementVector[17] && RefinementVector[18]) && !(!RefinementVector[18] && RefinementVector[31])
+)
+||
+(
+!RefinementVector[4] && !RefinementVector[10] && !RefinementVector[11] && !RefinementVector[17] && !RefinementVector[18] && RefinementVector[19] && RefinementVector[20] && !RefinementVector[21] && !RefinementVector[22] && !RefinementVector[23] && !RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && RefinementVector[39] 
+)
+&&
+(
+!(RefinementVector[0] && RefinementVector[1]) && !(RefinementVector[8] && RefinementVector[9]) && !(RefinementVector[9] && !RefinementVector[12]) && !(RefinementVector[15] && RefinementVector[16])
+)
+)
+

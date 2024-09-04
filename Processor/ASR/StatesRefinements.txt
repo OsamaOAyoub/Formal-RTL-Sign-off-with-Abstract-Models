@@ -1,0 +1,490 @@
+********************
+* Fetch Refinement *
+********************
+
+(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] && !RefinementVector[40] && !RefinementVector[41] && !RefinementVector[42] && !RefinementVector[43] && !RefinementVector[44] && !RefinementVector[45] && !RefinementVector[46] && !RefinementVector[47] && !RefinementVector[48] && !RefinementVector[49] && !RefinementVector[50] && !RefinementVector[51] && !RefinementVector[52] && !RefinementVector[53] && !RefinementVector[54] && !RefinementVector[55] && !RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[65] && !RefinementVector[66] && !RefinementVector[67] && !RefinementVector[68] && !RefinementVector[69] && !RefinementVector[70] && !RefinementVector[71] && !RefinementVector[72] && !RefinementVector[73] && !RefinementVector[74] && !RefinementVector[75] && !RefinementVector[76] && !RefinementVector[77] && !RefinementVector[78] && !RefinementVector[79] && !RefinementVector[80] && !RefinementVector[81] && !RefinementVector[82] && !RefinementVector[83] && !RefinementVector[84] && !RefinementVector[85] && !RefinementVector[86] && !RefinementVector[87] && !RefinementVector[88] && !RefinementVector[89] && !RefinementVector[90] && !RefinementVector[91] && !RefinementVector[92] && !RefinementVector[93] && !RefinementVector[94] && !RefinementVector[95] && !RefinementVector[96] && !RefinementVector[97] && !RefinementVector[98] && !RefinementVector[99] && !RefinementVector[100] && !RefinementVector[101] && !RefinementVector[102] && !RefinementVector[103] && !RefinementVector[104] && !RefinementVector[105] && !RefinementVector[106] && !RefinementVector[107] && !RefinementVector[108] && !RefinementVector[109] && !RefinementVector[110] && !RefinementVector[111] && !RefinementVector[112] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && !RefinementVector[119] && !RefinementVector[120] && !RefinementVector[121] && !RefinementVector[122] && !RefinementVector[123] && !RefinementVector[124] && !RefinementVector[125] && !RefinementVector[126] && !RefinementVector[127] && !RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[132] && !RefinementVector[133] && !RefinementVector[134] && !RefinementVector[135] && !RefinementVector[136] && !RefinementVector[137] && !RefinementVector[138] && !RefinementVector[139] && !RefinementVector[140] && !RefinementVector[141] && !RefinementVector[142] && !RefinementVector[143] && !RefinementVector[144] && !RefinementVector[145] && !RefinementVector[146] && !RefinementVector[147] && !RefinementVector[148] && !RefinementVector[149] && !RefinementVector[150] && !RefinementVector[151] && !RefinementVector[152] && !RefinementVector[153] && !RefinementVector[154] && !RefinementVector[155] && !RefinementVector[180] && !RefinementVector[181] && !RefinementVector[182] && !RefinementVector[183] && !RefinementVector[184] && !RefinementVector[185] && !RefinementVector[186] && !RefinementVector[187] && !RefinementVector[188] && !RefinementVector[189] && !RefinementVector[190] && !RefinementVector[191] && !RefinementVector[192] && !RefinementVector[193] && !RefinementVector[194] && !RefinementVector[195] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[116] && RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+&&
+(
+!(RefinementVector[130] && !RefinementVector[131])
+)
+||
+(
+RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+
+**********************
+* execute Refinement *
+**********************
+
+(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] && !RefinementVector[40] && !RefinementVector[41] && !RefinementVector[42] && !RefinementVector[43] && !RefinementVector[44] && !RefinementVector[45] && !RefinementVector[46] && !RefinementVector[47] && !RefinementVector[48] && !RefinementVector[49] && !RefinementVector[50] && !RefinementVector[51] && !RefinementVector[52] && !RefinementVector[53] && !RefinementVector[54] && !RefinementVector[55] && !RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[65] && !RefinementVector[66] && !RefinementVector[67] && !RefinementVector[68] && !RefinementVector[69] && !RefinementVector[70] && !RefinementVector[71] && !RefinementVector[72] && !RefinementVector[73] && !RefinementVector[74] && !RefinementVector[75] && !RefinementVector[76] && !RefinementVector[77] && !RefinementVector[78] && !RefinementVector[79] && !RefinementVector[80] && !RefinementVector[81] && !RefinementVector[82] && !RefinementVector[83] && !RefinementVector[84] && !RefinementVector[85] && !RefinementVector[86] && !RefinementVector[87] && !RefinementVector[88] && !RefinementVector[89] && !RefinementVector[90] && !RefinementVector[91] && !RefinementVector[92] && !RefinementVector[93] && !RefinementVector[94] && !RefinementVector[95] && !RefinementVector[96] && !RefinementVector[97] && !RefinementVector[98] && !RefinementVector[99] && !RefinementVector[100] && !RefinementVector[101] && !RefinementVector[102] && !RefinementVector[103] && !RefinementVector[104] && !RefinementVector[105] && !RefinementVector[106] && !RefinementVector[107] && !RefinementVector[108] && !RefinementVector[109] && !RefinementVector[110] && !RefinementVector[111] && !RefinementVector[112] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && !RefinementVector[119] && !RefinementVector[120] && !RefinementVector[121] && !RefinementVector[122] && !RefinementVector[123] && !RefinementVector[124] && !RefinementVector[125] && !RefinementVector[126] && !RefinementVector[127] && !RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[132] && !RefinementVector[133] && !RefinementVector[134] && !RefinementVector[135] && !RefinementVector[136] && !RefinementVector[137] && !RefinementVector[138] && !RefinementVector[139] && !RefinementVector[140] && !RefinementVector[141] && !RefinementVector[142] && !RefinementVector[143] && !RefinementVector[144] && !RefinementVector[145] && !RefinementVector[146] && !RefinementVector[147] && !RefinementVector[148] && !RefinementVector[149] && !RefinementVector[150] && !RefinementVector[151] && !RefinementVector[152] && !RefinementVector[153] && !RefinementVector[154] && !RefinementVector[155] && !RefinementVector[180] && !RefinementVector[181] && !RefinementVector[182] && !RefinementVector[183] && !RefinementVector[184] && !RefinementVector[185] && !RefinementVector[186] && !RefinementVector[187] && !RefinementVector[188] && !RefinementVector[189] && !RefinementVector[190] && !RefinementVector[191] && !RefinementVector[192] && !RefinementVector[193] && !RefinementVector[194] && !RefinementVector[195] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[116] && RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+&&
+(
+!(RefinementVector[130] && !RefinementVector[131])
+)
+||
+(
+RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+
+*********************
+* Decode Refinement *
+*********************
+
+(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] && !RefinementVector[40] && !RefinementVector[41] && !RefinementVector[42] && !RefinementVector[43] && !RefinementVector[44] && !RefinementVector[45] && !RefinementVector[46] && !RefinementVector[47] && !RefinementVector[48] && !RefinementVector[49] && !RefinementVector[50] && !RefinementVector[51] && !RefinementVector[52] && !RefinementVector[53] && !RefinementVector[54] && !RefinementVector[55] && !RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[65] && !RefinementVector[66] && !RefinementVector[67] && !RefinementVector[68] && !RefinementVector[69] && !RefinementVector[70] && !RefinementVector[71] && !RefinementVector[72] && !RefinementVector[73] && !RefinementVector[74] && !RefinementVector[75] && !RefinementVector[76] && !RefinementVector[77] && !RefinementVector[78] && !RefinementVector[79] && !RefinementVector[80] && !RefinementVector[81] && !RefinementVector[82] && !RefinementVector[83] && !RefinementVector[84] && !RefinementVector[85] && !RefinementVector[86] && !RefinementVector[87] && !RefinementVector[88] && !RefinementVector[89] && !RefinementVector[90] && !RefinementVector[91] && !RefinementVector[92] && !RefinementVector[93] && !RefinementVector[94] && !RefinementVector[95] && !RefinementVector[96] && !RefinementVector[97] && !RefinementVector[98] && !RefinementVector[99] && !RefinementVector[100] && !RefinementVector[101] && !RefinementVector[102] && !RefinementVector[103] && !RefinementVector[104] && !RefinementVector[105] && !RefinementVector[106] && !RefinementVector[107] && !RefinementVector[108] && !RefinementVector[109] && !RefinementVector[110] && !RefinementVector[111] && !RefinementVector[112] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && !RefinementVector[119] && !RefinementVector[120] && !RefinementVector[121] && !RefinementVector[122] && !RefinementVector[123] && !RefinementVector[124] && !RefinementVector[125] && !RefinementVector[126] && !RefinementVector[127] && !RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[132] && !RefinementVector[133] && !RefinementVector[134] && !RefinementVector[135] && !RefinementVector[136] && !RefinementVector[137] && !RefinementVector[138] && !RefinementVector[139] && !RefinementVector[140] && !RefinementVector[141] && !RefinementVector[142] && !RefinementVector[143] && !RefinementVector[144] && !RefinementVector[145] && !RefinementVector[146] && !RefinementVector[147] && !RefinementVector[148] && !RefinementVector[149] && !RefinementVector[150] && !RefinementVector[151] && !RefinementVector[152] && !RefinementVector[153] && !RefinementVector[154] && !RefinementVector[155] && !RefinementVector[180] && !RefinementVector[181] && !RefinementVector[182] && !RefinementVector[183] && !RefinementVector[184] && !RefinementVector[185] && !RefinementVector[186] && !RefinementVector[187] && !RefinementVector[188] && !RefinementVector[189] && !RefinementVector[190] && !RefinementVector[191] && !RefinementVector[192] && !RefinementVector[193] && !RefinementVector[194] && !RefinementVector[195] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[116] && RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+&&
+(
+!(RefinementVector[130] && !RefinementVector[131])
+)
+||
+(
+RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+
+*********************
+* memory Refinement *
+*********************
+
+(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[116] && RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+&&
+(
+!(RefinementVector[130] && !RefinementVector[131])
+)
+||
+(
+RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] && !RefinementVector[40] && !RefinementVector[41] && !RefinementVector[42] && !RefinementVector[43] && !RefinementVector[44] && !RefinementVector[45] && !RefinementVector[46] && !RefinementVector[47] && !RefinementVector[48] && !RefinementVector[49] && !RefinementVector[50] && !RefinementVector[51] && !RefinementVector[52] && !RefinementVector[53] && !RefinementVector[54] && !RefinementVector[55] && !RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[65] && !RefinementVector[66] && !RefinementVector[67] && !RefinementVector[68] && !RefinementVector[69] && !RefinementVector[70] && !RefinementVector[71] && !RefinementVector[72] && !RefinementVector[73] && !RefinementVector[74] && !RefinementVector[75] && !RefinementVector[76] && !RefinementVector[77] && !RefinementVector[78] && !RefinementVector[79] && !RefinementVector[80] && !RefinementVector[81] && !RefinementVector[82] && !RefinementVector[83] && !RefinementVector[84] && !RefinementVector[85] && !RefinementVector[86] && !RefinementVector[87] && !RefinementVector[88] && !RefinementVector[89] && !RefinementVector[90] && !RefinementVector[91] && !RefinementVector[92] && !RefinementVector[93] && !RefinementVector[94] && !RefinementVector[95] && !RefinementVector[96] && !RefinementVector[97] && !RefinementVector[98] && !RefinementVector[99] && !RefinementVector[100] && !RefinementVector[101] && !RefinementVector[102] && !RefinementVector[103] && !RefinementVector[104] && !RefinementVector[105] && !RefinementVector[106] && !RefinementVector[107] && !RefinementVector[108] && !RefinementVector[109] && !RefinementVector[110] && !RefinementVector[111] && !RefinementVector[112] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && !RefinementVector[119] && !RefinementVector[120] && !RefinementVector[121] && !RefinementVector[122] && !RefinementVector[123] && !RefinementVector[124] && !RefinementVector[125] && !RefinementVector[126] && !RefinementVector[127] && !RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[132] && !RefinementVector[133] && !RefinementVector[134] && !RefinementVector[135] && !RefinementVector[136] && !RefinementVector[137] && !RefinementVector[138] && !RefinementVector[139] && !RefinementVector[140] && !RefinementVector[141] && !RefinementVector[142] && !RefinementVector[143] && !RefinementVector[144] && !RefinementVector[145] && !RefinementVector[146] && !RefinementVector[147] && !RefinementVector[148] && !RefinementVector[149] && !RefinementVector[150] && !RefinementVector[151] && !RefinementVector[152] && !RefinementVector[153] && !RefinementVector[154] && !RefinementVector[155] && !RefinementVector[180] && !RefinementVector[181] && !RefinementVector[182] && !RefinementVector[183] && !RefinementVector[184] && !RefinementVector[185] && !RefinementVector[186] && !RefinementVector[187] && !RefinementVector[188] && !RefinementVector[189] && !RefinementVector[190] && !RefinementVector[191] && !RefinementVector[192] && !RefinementVector[193] && !RefinementVector[194] && !RefinementVector[195] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+
+************************
+* writeback Refinement *
+************************
+
+(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[24] && !RefinementVector[25] && !RefinementVector[26] && !RefinementVector[27] && !RefinementVector[28] && !RefinementVector[29] && !RefinementVector[30] && !RefinementVector[31] && !RefinementVector[32] && !RefinementVector[33] && !RefinementVector[34] && !RefinementVector[35] && !RefinementVector[36] && !RefinementVector[37] && !RefinementVector[38] && !RefinementVector[39] && !RefinementVector[40] && !RefinementVector[41] && !RefinementVector[42] && !RefinementVector[43] && !RefinementVector[44] && !RefinementVector[45] && !RefinementVector[46] && !RefinementVector[47] && !RefinementVector[48] && !RefinementVector[49] && !RefinementVector[50] && !RefinementVector[51] && !RefinementVector[52] && !RefinementVector[53] && !RefinementVector[54] && !RefinementVector[55] && !RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[65] && !RefinementVector[66] && !RefinementVector[67] && !RefinementVector[68] && !RefinementVector[69] && !RefinementVector[70] && !RefinementVector[71] && !RefinementVector[72] && !RefinementVector[73] && !RefinementVector[74] && !RefinementVector[75] && !RefinementVector[76] && !RefinementVector[77] && !RefinementVector[78] && !RefinementVector[79] && !RefinementVector[80] && !RefinementVector[81] && !RefinementVector[82] && !RefinementVector[83] && !RefinementVector[84] && !RefinementVector[85] && !RefinementVector[86] && !RefinementVector[87] && !RefinementVector[88] && !RefinementVector[89] && !RefinementVector[90] && !RefinementVector[91] && !RefinementVector[92] && !RefinementVector[93] && !RefinementVector[94] && !RefinementVector[95] && !RefinementVector[96] && !RefinementVector[97] && !RefinementVector[98] && !RefinementVector[99] && !RefinementVector[100] && !RefinementVector[101] && !RefinementVector[102] && !RefinementVector[103] && !RefinementVector[104] && !RefinementVector[105] && !RefinementVector[106] && !RefinementVector[107] && !RefinementVector[108] && !RefinementVector[109] && !RefinementVector[110] && !RefinementVector[111] && !RefinementVector[112] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && !RefinementVector[119] && !RefinementVector[120] && !RefinementVector[121] && !RefinementVector[122] && !RefinementVector[123] && !RefinementVector[124] && !RefinementVector[125] && !RefinementVector[126] && !RefinementVector[127] && !RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[132] && !RefinementVector[133] && !RefinementVector[134] && !RefinementVector[135] && !RefinementVector[136] && !RefinementVector[137] && !RefinementVector[138] && !RefinementVector[139] && !RefinementVector[140] && !RefinementVector[141] && !RefinementVector[142] && !RefinementVector[143] && !RefinementVector[144] && !RefinementVector[145] && !RefinementVector[146] && !RefinementVector[147] && !RefinementVector[148] && !RefinementVector[149] && !RefinementVector[150] && !RefinementVector[151] && !RefinementVector[152] && !RefinementVector[153] && !RefinementVector[154] && !RefinementVector[155] && !RefinementVector[180] && !RefinementVector[181] && !RefinementVector[182] && !RefinementVector[183] && !RefinementVector[184] && !RefinementVector[185] && !RefinementVector[186] && !RefinementVector[187] && !RefinementVector[188] && !RefinementVector[189] && !RefinementVector[190] && !RefinementVector[191] && !RefinementVector[192] && !RefinementVector[193] && !RefinementVector[194] && !RefinementVector[195] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && !RefinementVector[114] && !RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && RefinementVector[114] && !RefinementVector[115] && !RefinementVector[196] 
+)
+)
+&&
+!(
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[116] && !RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[116] && RefinementVector[117] && !RefinementVector[118] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && RefinementVector[129] && !RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && !RefinementVector[196] 
+)
+||
+(
+!RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && !RefinementVector[196] 
+)
+&&
+(
+!(RefinementVector[130] && !RefinementVector[131])
+)
+||
+(
+RefinementVector[56] && !RefinementVector[57] && !RefinementVector[58] && !RefinementVector[59] && !RefinementVector[60] && !RefinementVector[61] && !RefinementVector[62] && !RefinementVector[63] && !RefinementVector[64] && !RefinementVector[113] && !RefinementVector[114] && RefinementVector[115] && RefinementVector[128] && !RefinementVector[129] && RefinementVector[130] && !RefinementVector[131] && RefinementVector[196] 
+)
+)
+

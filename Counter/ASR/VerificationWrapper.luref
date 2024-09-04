@@ -1,0 +1,112 @@
+{
+    "version": 19,
+    "module": {
+        "name": "VerificationWrapper",
+        "reset_signal": {
+            "signal": "rst",
+            "is_active_low": false
+        },
+        "clock_signal": {
+            "signal": "clk",
+            "is_falling_edge": false
+        },
+        "next_shift_amount": 0,
+        "rtl_module_name": "",
+        "instance_name": "",
+        "default_assertion_duration": 1,
+        "default_disable_iff": "",
+        "reset": {
+            "documentation_comment": ""
+        },
+        "additional_includes": "",
+        "sync_macros": [],
+        "notify_macros": [],
+        "input_datapath_macros": [
+            {
+                "name": "en_sig",
+                "datatype": "bit",
+                "refinement": "en",
+                "create_commitments": false,
+                "timing": 0,
+                "unused": false
+            }
+        ],
+        "output_datapath_macros": [
+            {
+                "name": "cnt_out_sig",
+                "datatype": "bit unsigned [31:0]",
+                "refinement": "cnt",
+                "create_commitments": true,
+                "timing": 0,
+                "unused": false
+            },
+            {
+                "name": "DUT type",
+                "datatype": "seq: sequential, comb: combinational",
+                "refinement": "seq"
+            },
+            {
+                "name": "Largest bitwidth of the outputs",
+                "datatype": "Specify the largest bitwidth of the output as a range, i.e. [127:0]",
+                "refinement": "[31:0]"
+            },
+            {
+                "name": "Lower limit of the delay of DUT in clock cycles",
+                "refinement": "0"
+            },
+            {
+                "name": "OLS ready signal | Only if a full hsk is used",
+                "datatype": "Specify the ready hsk signal",
+                "refinement": ""
+            },
+            {
+                "name": "OLS valid signal | Only if a full hsk is used",
+                "datatype": "Specify the valid hsk signal",
+                "refinement": ""
+            },
+            {
+                "name": "Upper limit of the delay of DUT in clock cycles",
+                "refinement": "7"
+            }
+        ],
+        "state_macros": [],
+        "register_macros": [],
+        "assertions": [
+            {
+                "name": "reset_a",
+                "disable_iff": "",
+                "duration": 0,
+                "documentation_comment": "",
+                "unused": false,
+                "alternative_name": ""
+            },
+            {
+                "name": "state_to_state_1_a",
+                "disable_iff": "",
+                "duration": 7,
+                "documentation_comment": "",
+                "unused": false,
+                "alternative_name": ""
+            },
+            {
+                "name": "state_to_state_2_a",
+                "disable_iff": "",
+                "duration": 7,
+                "documentation_comment": "",
+                "unused": false,
+                "alternative_name": ""
+            },
+            {
+                "name": "state_to_state_a",
+                "disable_iff": "",
+                "duration": 7,
+                "documentation_comment": "",
+                "unused": false,
+                "alternative_name": ""
+            }
+        ],
+        "waits": [],
+        "additional_imports": "",
+        "wrapper_instance_name": ""
+    }
+}
